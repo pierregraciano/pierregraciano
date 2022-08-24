@@ -3,8 +3,8 @@
 - 💻 Atualmente estudo JavaScript
 - 🤖 Participo da Uai!rrior - Equipe de Robótica
 
-     + Atuo como projetista eletrônico e com 
-     desenvolvimento de software para microcontroladores.
+     + Atuo como projetista eletrônico e como
+     desenvolvedor de software para microcontroladores.
   
   
   
